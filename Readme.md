@@ -20,6 +20,6 @@ Using Visual Studio
 ### Framework type: Page Object Model 
 ```
 Contains  UI tests And Api Test
-```
+
 
 
